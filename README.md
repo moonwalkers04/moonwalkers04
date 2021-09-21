@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moonwalkers04
 - 👀 I’m interested in ... learning and understanding how coding works 
-- 🌱 I’m currently learning ... Python 
+- 🌱 I’m currently learning ... Python , Java Script, HTML + CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... via twitter @delacruz_2889
 
